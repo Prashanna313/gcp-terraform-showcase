@@ -41,7 +41,7 @@ Before using this Terraform configuration, ensure you have:
 2. Navigate to the project directory:
 
     ```bash
-    cd terraform-gcp-example
+    cd terraform
     ```
 
 3. Customize the Terraform configuration files as per your requirements.
